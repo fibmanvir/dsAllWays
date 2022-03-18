@@ -24,6 +24,8 @@ int main(int argc, const char * argv[]) {
     int m,n;
     cout<<"Enter values of m amd n, \n";
     cin>>m>>n;
+    
+    
 
     cout << "Hello, World!\n"<<func(m, n)<<endl;
     

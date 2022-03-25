@@ -1,3 +1,4 @@
+// This file has various methods to obtain specific result, choose wisely
 #include<iostream>
 using namespace std;
 

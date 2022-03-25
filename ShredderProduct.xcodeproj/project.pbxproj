@@ -40,9 +40,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B62528B27EB9EFD00E4DB71 /* ArrayADT */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ArrayADT;
+			sourceTree = "<group>";
+		};
 		0BCF09FA27E3E93C00DDFB89 = {
 			isa = PBXGroup;
 			children = (
+				0B62528B27EB9EFD00E4DB71 /* ArrayADT */,
 				0BCF0A0527E3E93C00DDFB89 /* ShredderProduct */,
 				0BCF0A0427E3E93C00DDFB89 /* Products */,
 			);
